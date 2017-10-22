@@ -2,4 +2,5 @@
 layout: home
 ---
 
-A Site Starter Materialize Templates for Jekyll.
+Complete solution to all your marble and tiles needs.
+All kinds of Granite Marble, Ceremic Tiles, Sanitary, Kota Stone and Imported Marble are available.
